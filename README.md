@@ -1,1 +1,1 @@
-# krC
+# K&R C excercises 
